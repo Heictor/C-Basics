@@ -1,0 +1,7 @@
+/home/heic/C-Basics/Data_Structure/Pointers/Pointers.c: In function ‘main’:
+/home/heic/C-Basics/Data_Structure/Pointers/Pointers.c:18:14: error: ‘pStruct’ redeclared as different kind of symbol
+     pStruct *pStruct;
+              ^~~~~~~
+/home/heic/C-Basics/Data_Structure/Pointers/Pointers.c:16:14: note: previous declaration of ‘pStruct’ was here
+     }typedef pStruct;
+              ^~~~~~~
