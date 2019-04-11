@@ -1,8 +1,0 @@
-/home/heic/C-Basics/Data_Structure/Modularization/Modularization.c:19:1: warning: data definition has no type or storage class
- outro();
- ^~~~~
-/home/heic/C-Basics/Data_Structure/Modularization/Modularization.c:19:1: warning: type defaults to ‘int’ in declaration of ‘outro’ [-Wimplicit-int]
-/home/heic/C-Basics/Data_Structure/Modularization/Modularization.c:19:1: error: conflicting types for ‘outro’
-/home/heic/C-Basics/Data_Structure/Modularization/Modularization.c:13:6: note: previous definition of ‘outro’ was here
- void outro() {
-      ^~~~~
