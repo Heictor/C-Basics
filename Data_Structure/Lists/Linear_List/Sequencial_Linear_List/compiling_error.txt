@@ -1,0 +1,4 @@
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(libcmain.o): In function `main':
+/usr/src/debug/cygwin-3.0.6-1/winsup/cygwin/lib/libcmain.c:37: undefined reference to `WinMain'
+/usr/src/debug/cygwin-3.0.6-1/winsup/cygwin/lib/libcmain.c:37:(.text.startup+0x7f): relocation truncated to fit: R_X86_64_PC32 against undefined symbol `WinMain'
+collect2: error: ld returned 1 exit status
