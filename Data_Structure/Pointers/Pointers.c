@@ -15,6 +15,6 @@ int main(int argc, char const *argv[]) {
         float f;
     }typedef pStruct;
 
-    pStruct *pStruct;
+
     return 0;
 }
