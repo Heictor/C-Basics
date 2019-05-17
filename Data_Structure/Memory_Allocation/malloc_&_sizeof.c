@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <malloc.h>
+
 int main() {
     int* y = (int*) malloc(sizeof(int));
     *y = 20;
