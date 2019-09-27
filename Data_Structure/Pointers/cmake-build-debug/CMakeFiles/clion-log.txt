@@ -1,0 +1,47 @@
+C:\Users\heict\.CLion2019.2\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/c/Users/heict/C-Basics/Data_Structure/Pointers
+CMake Error at /cygdrive/c/Users/heict/.CLion2019.2/system/cygwin_cmake/share/cmake-3.15.3/Modules/CMakeCInformation.cmake:90 (include):
+  include could not find load file:
+
+    /cygdrive/c/Users/heict/C-Basics/Data_Structure/Pointers/Source/Modules/OverrideC.cmake
+Call Stack (most recent call first):
+  CMakeLists.txt:7 (project)
+
+
+CMake Error at /cygdrive/c/Users/heict/.CLion2019.2/system/cygwin_cmake/share/cmake-3.15.3/Modules/CMakeCXXInformation.cmake:89 (include):
+  include could not find load file:
+
+    /cygdrive/c/Users/heict/C-Basics/Data_Structure/Pointers/Source/Modules/OverrideCXX.cmake
+Call Stack (most recent call first):
+  CMakeLists.txt:7 (project)
+
+
+CMake Error at CMakeLists.txt:56 (include):
+  include could not find load file:
+
+    /cygdrive/c/Users/heict/C-Basics/Data_Structure/Pointers/Source/Checks/cm_c11_thread_local.cmake
+
+
+CMake Error at CMakeLists.txt:68 (include):
+  include could not find load file:
+
+    /cygdrive/c/Users/heict/C-Basics/Data_Structure/Pointers/Source/Checks/cm_cxx17_check.cmake
+
+
+CMake Error at CMakeLists.txt:86 (include):
+  include could not find load file:
+
+    CompileFlags.cmake
+
+
+CMake Error at CMakeLists.txt:89 (include):
+  include could not find load file:
+
+    /cygdrive/c/Users/heict/C-Basics/Data_Structure/Pointers/Source/Checks/cm_cxx_features.cmake
+
+
+CMake Error at CMakeLists.txt:92 (message):
+  The C++ compiler does not support C++11 (e.g.  std::unique_ptr).
+
+
+-- Configuring incomplete, errors occurred!
+See also "/cygdrive/c/Users/heict/C-Basics/Data_Structure/Pointers/cmake-build-debug/CMakeFiles/CMakeOutput.log".

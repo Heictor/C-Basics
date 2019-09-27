@@ -1,0 +1,4 @@
+/cygdrive/c/Users/heict/C-Basics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/heict/C-Basics/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/heict/C-Basics/cmake-build-debug/CMakeFiles/C-Basics_Quadratic_Equations.dir
+/cygdrive/c/Users/heict/C-Basics/cmake-build-debug/CMakeFiles/C-Basics_Data_Structure.dir

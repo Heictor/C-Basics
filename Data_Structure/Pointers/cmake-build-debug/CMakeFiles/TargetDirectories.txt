@@ -1,0 +1,2 @@
+/cygdrive/c/Users/heict/C-Basics/Data_Structure/Pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/heict/C-Basics/Data_Structure/Pointers/cmake-build-debug/CMakeFiles/edit_cache.dir

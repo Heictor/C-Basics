@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/heict/C-Basics/Mathematical_Applications/Quadratic_Equations/Quadratic_Equations.c
+stdio.h
+-
+math.h
+-
+

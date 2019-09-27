@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/C-Basics_Quadratic_Equations.dir/Mathematical_Applications/Quadratic_Equations/Quadratic_Equations.c.o  -o C-Basics_Quadratic_Equations.exe -Wl,--out-implib,libC-Basics_Quadratic_Equations.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
